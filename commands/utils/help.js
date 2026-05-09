@@ -40,8 +40,8 @@ module.exports = {
     const linkRow = {
       type: 1,
       components: [
-        ComponentsV2.createButton({ url: 'https://breezebytes.com', label: 'Website', style: 5, emoji: '🌐' }),
-        ComponentsV2.createButton({ url: 'https://panel.breezebytes.com', label: 'Dashboard', style: 5, emoji: '💻' })
+        ComponentsV2.createButton({ url: 'https://breezebytes.qzz.io', label: 'Website', style: 5, emoji: '🌐' }),
+        ComponentsV2.createButton({ url: 'https://gp.breezebytes.qzz.io', label: 'Dashboard', style: 5, emoji: '💻' })
       ]
     };
     
